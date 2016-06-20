@@ -1,0 +1,8 @@
++ Statistikanzeige
+	+ Irgendein Graph (Highcharts = overkill?)
+	+ Für alle 3 Spritsorten
+	+ Per JSON
+		+ php-Datei
+	 vom Server holen
+	+ Evtl. Cronjob oder immer bei Aufruf des Forums (Startseite)
+	+ Sperrzeit (Datenbankeintrag?)
