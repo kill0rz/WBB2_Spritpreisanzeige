@@ -121,6 +121,8 @@ if ($filename == "index.php") {
 			'tamoil' => 'Tamoil',
 			'tankpool24' => 'tankpool24',
 			'total' => 'Total',
+			'totalenergies' => 'TotalEnergies',
+			'total energies' => 'TotalEnergies',
 			'union' => 'Union',
 			'westfalen' => 'Westfalen',
 		);
